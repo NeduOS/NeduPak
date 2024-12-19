@@ -1,0 +1,9 @@
+# vs code
+*.vscode
+.vscode
+
+# outputs
+*.o
+*.zig-cache
+.zig-cache
+zig-out
